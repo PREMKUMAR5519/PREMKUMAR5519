@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/b69Rh0T/Black-Technology-Linked-In-Banner-1.png" alt="Banner Image" width="1300" height="250">
 <h1 align="center">Hi 👋, I'm PREM KUMAR</h1>
-<h3 align="center">MERN Stack Developer|Seeking Entry-Level Developer Opportunities| Open to Frontend, Backend & Fullstack Roles</h3>
+<h3 align="center">MERN Stack Developer|Seeking Entry-Level Developer Opportunities| Open to Frontend, Backend & Fullstack Roles</h3> 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 - 👨‍💻 My Portfolio and Projects (https://665ee506e990e7ef5e44f939--cute-douhua-a77a97.netlify.app/)
 
